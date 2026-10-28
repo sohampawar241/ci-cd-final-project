@@ -1,5 +1,9 @@
 # CI/CD Tools and Practices Final Project Template
 
+### Project name: ci-cd-final-project
+
+ci-cd-final-project
+
 This repository contains the template to be used for the Final Project for the Coursera course **CI/CD Tools and Practices**.
 
 ## Usage
@@ -26,6 +30,14 @@ exit
 
 ## Tasks
 
+- [x] Exercise 0: Push CI code to GitHub
+- [x] Exercise 1: Create basic workflow
+- [x] Exercise 2: Add the linting step to CI workflow
+- [x] Exercise 3: Add the test step to CI workflow
+- [x] Exercise 4: Validate GitHub Actions Workflow
+- [x] Exercise 5: Create cleanup Tekton task
+- [x] Exercise 6: Create test Tekton task
+- [x] Exercise 7: Create OpenShift pipeline
 
 ## License
 
